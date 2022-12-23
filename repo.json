@@ -1,10 +1,15 @@
-[
-  {
-    "id": 1,
+{
+    "icon": "https://cdn.discordapp.com/avatars/1043201641861619752/7aa937d3e3ced4182a181fd169b5d452.png?size=419",
+    "name": "Axel's Repo",
+    "apps": [
+      {
     "title": "Spotify",
     "urlimg": "https://github.com/AxelRepo/Repo/raw/main/spotify.png",
     "url": "apple-magnifier://install?url=https://github.com/AxelRepo/Repo/releases/download/apps/spotify.ipa",
     "bundleid": "com.spotify.client",
     "completed": false
+      }
+    ]
   }
-]
+
+
