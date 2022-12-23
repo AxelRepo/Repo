@@ -3,13 +3,11 @@
     "name": "Axel's Repo",
     "apps": [
       {
-    "title": "Spotify",
-    "urlimg": "https://github.com/AxelRepo/Repo/raw/main/spotify.png",
-    "url": "apple-magnifier://install?url=https://github.com/AxelRepo/Repo/releases/download/apps/spotify.ipa",
-    "bundleid": "com.spotify.client",
-    "completed": false
+        "title": "Spotify",
+        "urlimg": "https://github.com/AxelRepo/Repo/raw/main/spotify.png",
+        "url": "https://github.com/AxelRepo/Repo/releases/download/apps/spotify.ipa",
+        "bundleid": "com.spotify.client",
+        "completed": false
       }
     ]
   }
-
-
